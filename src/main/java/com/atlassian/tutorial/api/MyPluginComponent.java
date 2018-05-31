@@ -1,4 +1,4 @@
-package com.atlassian.test.testPlugin.api;
+package com.atlassian.tutorial.api;
 
 public interface MyPluginComponent
 {
